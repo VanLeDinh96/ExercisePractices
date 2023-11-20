@@ -1,0 +1,5 @@
+Ma so: 1234
+Ten tai xe: John Doe
+Dia chi don khach: 123 Main Street, District 1
+So km da chay: 50
+So cho ngoi cua xe taxi: 4
