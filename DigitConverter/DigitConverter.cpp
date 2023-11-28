@@ -13,7 +13,7 @@ char digitToHexChar(int digit) {
 
 std::string convertToBaseK(int n, int k) {
     if (n == 0) {
-        return "0";
+        return "";
     }
     else {
         return convertToBaseK(n / k, k) + digitToHexChar(n % k);
